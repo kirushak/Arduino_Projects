@@ -1,0 +1,8 @@
+ESP32 CAM
+Relay Module
+Solenoid Lock
+LED
+Breadboard
+12v power Supply / Battery
+7805 Regulator
+100uf 16V Capacitor
